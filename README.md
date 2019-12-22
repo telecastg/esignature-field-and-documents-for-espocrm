@@ -4,6 +4,7 @@ Module to allow the use of an electronic signature canvas as a field and to gene
 Steps to create an electronic signature document based on an EspoCRM entity:
 
 1) Create a new entity or edit an existing one (the target entity) through the Administration module and add a field type 'eSignature' (the target field). 
+
 NOTE: If you are trying to add an eSignature field to a core EspoCRM entity (like 'account' or 'contact', etc) do not modify EspoCRM such entities, instead create a custom entity that clones the core entity and use that custom entity in your application in order to make the changes "upgrade safe" .
 
 2) Create a template to display the target entity.
