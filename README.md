@@ -46,7 +46,7 @@ Steps to create an electronic signature document based on an EspoCRM entity:
 
 Instructions to generate the electronic signature document:
 
-1) Open the target entity detail view and select 'display eSignature Document' from the top left dropdown menu.
+1) Open the target entity detail view and select 'Display eSignature Document' from the top left dropdown menu.
 
 2) Select the template created to display the document
 
